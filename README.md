@@ -6,9 +6,9 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-
+# Hello!!!
 # Communicate using Markdown
-
+### Do not communicate using Markdown
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
@@ -20,7 +20,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
-
+###### Jokes
 ## Step 1: Add headers
 
 _Welcome to "Communicate using Markdown"! :wave:_
